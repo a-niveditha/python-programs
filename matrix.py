@@ -1,4 +1,4 @@
-print('Registration Number:24BCE2000 Name:Niveditha A')
+
 r=int(input('enter no of rows and columns'))
 A=[]
 B=[]
